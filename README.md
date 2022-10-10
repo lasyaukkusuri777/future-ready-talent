@@ -10,6 +10,7 @@ Note: Bot is deployed on contact page
 
 ### Industry :
 Lifestyle
+https://ashy-forest-0978d2910.azurestaticapps.net/index.html
 
 
 ### Project Title :
